@@ -55,7 +55,7 @@ public class Main {
         System.out.println("Задача 4");
         int dateFriday = 5;
         for (; dateFriday <=31; dateFriday += 7) {
-                System.out.println("Сегодня пятница " + dateFriday + "-е число. Необходимо подготовить отчёт.");
+                System.out.println("Сегодня пятница - " + dateFriday + "-е число. Необходимо подготовить отчёт.");
         }
     }
 }
